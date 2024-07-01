@@ -1,0 +1,21 @@
+#box1 {
+  border: 2px solid;
+  width: 250px;
+  font-size: 20px;
+  background-color: greenyellow;
+  /* margin: 50px;
+  padding-left: 20px;
+  padding-right: 50px; */
+  margin-right: auto;
+}
+
+#box2 {
+  border: 2px solid;
+  width: 250px;
+  font-size: 20px;
+  background-color: tomato;
+  /* margin-top: 150px;
+  margin-left: 50px;
+  padding-bottom: 30px; */
+  margin-left: auto;
+}
